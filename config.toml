@@ -1,4 +1,4 @@
-baseURL = "https://dishcool.xyz"
+baseURL = "https://dishcool.github.io"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
